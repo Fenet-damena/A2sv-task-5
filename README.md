@@ -41,7 +41,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/contact-form-tsx.git
+   git clone https://github.com/Fenet-damena/A2sv-task-5.git
    cd contact-form-tsx
 ````
 
