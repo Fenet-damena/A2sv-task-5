@@ -71,7 +71,7 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots
 
-### 🖼️ 1. Initial Contact Form UI
+###  1. Initial Contact Form UI
 
 This shows the clean and responsive UI with three input fields: Name, Email, and Message.
 ![Initial UI](./screenshots/initial-ui.png)
