@@ -2,7 +2,7 @@
 
 This project is a simple and responsive contact form built with **React**, **TypeScript**, and **react-hook-form**. It demonstrates how to manage form state, perform validation, and handle submission in a clean and efficient way using the `useForm` hook.
 
-## ✨ Features
+##  Features
 
 - Built with **React + TypeScript**
 - Form state management using `useForm`
@@ -11,7 +11,7 @@ This project is a simple and responsive contact form built with **React**, **Typ
 - Responsive UI styled with plain CSS
 - Alert and console output on successful form submission
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - React
 - TypeScript
@@ -19,7 +19,7 @@ This project is a simple and responsive contact form built with **React**, **Typ
 - Vite (for fast development)
 - CSS (global styling in `index.css`)
 
-## 📋 Validation Rules
+##  Validation Rules
 
 - **Name**: Required field
 - **Email**: Required field with valid email format
@@ -27,7 +27,7 @@ This project is a simple and responsive contact form built with **React**, **Typ
 
 If any of the fields are invalid or empty, relevant error messages will be shown below the input.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -63,41 +63,29 @@ Ensure you have the following installed:
    http://localhost:5173/
    ```
 
-## 🧪 Testing Instructions
+##  Testing Instructions
 
 1. Try submitting the form with empty fields to see validation messages.
 2. Enter an invalid email to trigger format error.
 3. Fill in all fields correctly and submit — an alert will confirm success and the data will be logged in the browser console.
 
----
-
 ## 📸 Screenshots
 
-### 🖼️ 1. **Initial Contact Form UI**
+### 🖼️ 1. Initial Contact Form UI
 
-> This shows the clean and responsive UI with three input fields: Name, Email, and Message.
-
+This shows the clean and responsive UI with three input fields: Name, Email, and Message.
 ![Initial UI](./screenshots/initial-ui.png)
 
----
+### ❌ 2. Validation Error Messages
 
-### ❌ 2. **Validation Error Messages**
-
-> Displays error messages for required fields and invalid email format.
-
+Displays error messages for required fields and invalid email format.
 ![Validation Errors](./screenshots/validation-errors.png)
 
----
+### ✅ 3. Successful Submission
 
-### ✅ 3. **Successful Submission**
-
-> After filling in valid data and submitting, a success alert appears, and the form data is logged in the console.
-
+After filling in valid data and submitting, a success alert appears, and the form data is logged in the console.
 ![Successful Submission](./screenshots/success-submission.png)
 
----
-
-## 👨 Author
+##  Author
 
 **Fenet Damena**
-
