@@ -42,7 +42,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Fenet-damena/A2sv-task-5.git
-   cd contact-form-tsx
+   cd A2sv-task-5
 ````
 
 2. Install dependencies:
